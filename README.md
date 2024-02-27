@@ -26,7 +26,7 @@ illust image 様  https://illustimage.com/
 
 ## 実行方法
 
-~~shooting/Debug/shooting.exeを起動する．アンインストールはフォルダごと削除するだけです．~~
+Shooting-game-with-Math.exeを起動する．アンインストールはファイルごと削除するだけです．
 
 ## 操作方法
 
